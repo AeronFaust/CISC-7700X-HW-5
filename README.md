@@ -4,3 +4,5 @@
 Compile: g++ -o main main.cpp 
 
 Run: ./main
+
+Accuracy: 28.6242%
